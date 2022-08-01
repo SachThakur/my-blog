@@ -30,6 +30,11 @@ github_username:  sachthakur
 # Fields that minima uses but is not defaulted with styles
 
 author: Sachin Thakur
+linkedin_username: sachin-thakur-376534216
+
+
+# New fileds not defaulted by jekyll-new with minima theme
+
 
 # Build settings
 # Removed miima theme as it is now a regular theme
