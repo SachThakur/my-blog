@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # About me
-![SachinImage](https://i.imgur.com/30EXe8i.png) Hi! My name is Sachin Thakur. I use this website to share what I've learned about software engineering and data analysis, both of   which I find fascinating. I also share projects that I've worked on to make use of the skills that I developed.
+Hi! My name is Sachin Thakur. I use this website to share what I've learned about software engineering and data analysis, both of   which I find fascinating. I also share projects that I've worked on to make use of the skills that I developed.
 
 # My blog
 Software engineering is rapidly becoming the bedrock of all future careers. The field's open and fast-paced nature piques people's curiosity. All of the information we require is readily available, and the satisfaction of solving complex problems on our own using techniques from the profession is enormous. This also relates to a new emerging specialization known as data analysis.

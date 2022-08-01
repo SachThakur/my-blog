@@ -35,6 +35,9 @@ linkedin_username: sachin-thakur-376534216
 
 # New fileds not defaulted by jekyll-new with minima theme
 
+#title-logo is a new field that, when used, displays a logo instead of custom text.
+# Image ideal size is 50px high and low horizontal space.
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed miima theme as it is now a regular theme
