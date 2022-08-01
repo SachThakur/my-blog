@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first writing blog"
-date:   2022-08-01 19:41:46
-categories: jekyll update
+date:   2022-08-01
+category: Article
 ---
 Welcome to my first writting blog!
